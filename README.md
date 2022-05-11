@@ -12,7 +12,7 @@ Web:
 9. web untuk menampilkan data admin
 10. web web order (sakral)
 11. web monitoring
-12. layout (on going by fatih) -> DL mlm kamis
+12. layout (on going by fatih)
 
 Deskripsi Web (on Going by Fachri)
 
