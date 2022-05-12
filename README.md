@@ -4,8 +4,8 @@ Web:
 1. web warna dominan green pastell #68A7AD
 2. web pimpinan memiliki menu dropside on mouse samping kiri
 3. web login (on going by dika)
-4. web register pelanggan (on ging by dimas) tinggal cek & sesuaikan
-5. web register admin
+4. web register pelanggan (created by dimas)
+5. web register admin (on going by dimas)
 6. main web (on going by Fateh)
 7. Web CRUD produk untuk admin(on going by dilan)
 8. web untuk menampilkan data pengguna
