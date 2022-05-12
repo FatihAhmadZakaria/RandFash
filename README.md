@@ -7,7 +7,7 @@ Web:
 4. web register pelanggan (on ging by dimas)
 5. web register admin
 6. main web (on going by dilan)
-7. Web CRUD produk untuk admin
+7. Web CRUD produk untuk admin(on going by dilan)
 8. web untuk menampilkan data pengguna
 9. web untuk menampilkan data admin
 10. web web order (sakral)
