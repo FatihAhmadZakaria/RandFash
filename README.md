@@ -4,15 +4,15 @@ Web:
 1. web warna dominan green pastell #68A7AD
 2. web pimpinan memiliki menu dropside on mouse samping kiri
 3. web login (on going by dika)
-4. web register pelanggan (on ging by dimas)
+4. web register pelanggan (on ging by dimas) tinggal cek & sesuaikan
 5. web register admin
-6. main web (on going by dilan)
+6. main web (on going by Fateh)
 7. Web CRUD produk untuk admin(on going by dilan)
 8. web untuk menampilkan data pengguna
 9. web untuk menampilkan data admin
 10. web web order (sakral)
 11. web monitoring
-12. layout (created by fatih)
+12. layout (on going by fatih)
 
 Deskripsi Web (on Going by Fachri)
 
